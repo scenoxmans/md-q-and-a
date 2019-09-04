@@ -7,10 +7,10 @@
 
 <i> No , i have never had a dream that i could um , that , that, i , err, no!</i>
 
-What is your favourite beverage? 
+<h1>What is your favourite beverage?</h1> 
 Answer in Bolt and Cursive.
 
-***is wata
+<b>is wata</b>
 
 *What is your fav anime?(Answer as a comment)
 
