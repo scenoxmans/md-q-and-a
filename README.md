@@ -6,26 +6,23 @@
 
 
 <i> No , i have never had a dream that i could um , that , that, i , err, no!</i>
-
                                 <hr></hr>
 
 <h4>What is your favourite beverage?</h4> 
 
 <h4>Answer in Bolt and Cursive.</h4>
-
                                 <hr></hr>
 
 <b><i>is wata.</i></b>
 
-<h1>What is your fav anime?(Answer as a comment)<h1>
-  
+<h4>What is your fav anime?(Answer as a comment)<h4>
                                 <hr></hr>
                                 
 <!--My favourite anime is Deathnote , FUNFACT , also the only one i've ever seen.-->
-
-<h1> What is your fav movie?</h1>
+                                <hr></hr>
+<h4> What is your fav movie?</h4>
 <h3>Scratch the answer.</h3>
-
+                                <hr></hr>
 <s>Memento</s>
 
 
