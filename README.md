@@ -19,7 +19,13 @@
 <span style="color:blue">some *blue* text</span>
 =======
 <h4>Whats is your most hated color , explain why. make it fancy if you want , but it doesn't have to be fancy at all.</h4> 
->>>>>>> b209102dd74f945876a608a1c61e8b676c7e567a
+
+
+<span style="color:blue">some *blue* text</span>
+
+
+
+
 
 ![#f03c15](https://placehold.it/150x50/ffffff/f03c15?text=+RGB) 
 
