@@ -17,4 +17,52 @@
 <!--My favourite anime is Deathnote , FUNFACT , also the only one i've ever seen.>
 
 <h4>Whats is your most hated color , explain why. make it fancy if you want , but it doesn't have to be fancy at all.</h4> 
+<span style="color: green"> Some green text </span>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
