@@ -16,6 +16,5 @@
 
 <!--My favourite anime is Deathnote , FUNFACT , also the only one i've ever seen.>
 
-<h1>Whats is your most hated color , explain why. make it fancy if you want , but it doesn't have to be fancy at all.</h1> 
+<h4>Whats is your most hated color , explain why. make it fancy if you want , but it doesn't have to be fancy at all.</h4> 
 
-<style color=red>RGB
