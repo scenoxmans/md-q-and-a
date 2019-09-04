@@ -13,3 +13,6 @@ Answer in Bolt and Cursive.
 
 *What is your fav anime?(Answer as a comment)
 
+My favourite anime is Deathnote , FUNFACT , also the only one i've ever seen.
+
+Whats is your most hated color , explain why. make it fancy if you want , but it doesn't have to be fancy at all. 
