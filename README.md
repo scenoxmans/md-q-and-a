@@ -1,8 +1,5 @@
 # md-q-and-a
-                                              
-                                              
-                                             Q&A
- 
+                                                                                                                               
 <h4>Have you ever had a dream that, that, um, that you had, uh, that you had to, you could, you do, you wit, you wa, you could do so, you do you could, you want, you wanted him to do you so much you could do anything?
 </h4>
 <h4>Answer in italic <i>like this.</i></h4>
@@ -25,6 +22,7 @@
                                 <hr></hr>
 <s>Memento</s>
 <h4>Whats is your most hated color , explain why. make it fancy if you want , but it doesn't have to be fancy at all.</h4></u>
+                                <hr></hr>
 
 ```diff 
 - Green, cuz its so red.
