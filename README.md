@@ -1,5 +1,4 @@
 # md-q-and-a
-<body>
 <h4>Have you ever had a dream that, that, um, that you had, uh, that you had to, you could, you do, you wit, you wa, you could do so, you do you could, you want, you wanted him to do you so much you could do anything?
 </h4>
 <h3>Answer in italic<i> like this.</i></h3>
@@ -19,12 +18,15 @@
 <h1> What is your fav movie?</h1>
 <h3>Scratch the answer.</h3>
 ~~Memento
-<h4>Whats is your most hated color , explain why. make it fancy if you want , but it doesn't have to be fancy at all.</h4> 
+
+<u>
+<h4>Whats is your most hated color , explain why. make it fancy if you want , but it doesn't have to be fancy at all.</h4></u>
 
 
 ```diff 
 - RGB
-          </body>
+
+
 
 
 
