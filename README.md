@@ -11,5 +11,5 @@ Answer in Bolt and Cursive.
 
 ***is wata
 
-*What is you fav anime?
+*What is your fav anime?(Answer as a comment)
 
