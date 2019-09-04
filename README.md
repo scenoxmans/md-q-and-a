@@ -14,10 +14,10 @@
 <h1>What is your fav anime?(Answer as a comment)<h1>
 
 <!--My favourite anime is Deathnote , FUNFACT , also the only one i've ever seen.-->
+
 <h4>Whats is your most hated color , explain why. make it fancy if you want , but it doesn't have to be fancy at all.</h4> 
+
 ![#f03c15](https://placehold.it/150x50/ffffff/f03c15?text=+RGB) 
-
-
 
 
 
