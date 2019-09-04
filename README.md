@@ -14,7 +14,7 @@
 
 <h1>What is your fav anime?(Answer as a comment)<h1>
 
-<!--My favourite anime is Deathnote , FUNFACT , also the only one i've ever seen.
+<!--My favourite anime is Deathnote , FUNFACT , also the only one i've ever seen.>
 
 <h1>Whats is your most hated color , explain why. make it fancy if you want , but it doesn't have to be fancy at all.</h1> 
 
